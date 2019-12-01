@@ -46,6 +46,7 @@
     <Compile Include="Const.cs" />
     <Compile Include="Geometry.cs" />
     <Compile Include="Gravity.cs" />
+    <Compile Include="Interface1.cs" />
     <Compile Include="Object.cs" />
     <Compile Include="Planet.cs" />
     <Compile Include="Point.cs" />
