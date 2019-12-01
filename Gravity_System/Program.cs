@@ -10,6 +10,11 @@ namespace Gravity_System
     {
         static void Main(string[] args)
         {
+            double r = Geometry.DistancesBetweenTwoPoints(new Point(0, 555, 0), new Point(0, 0, 0));
+
+            Console.WriteLine(r.ToString());
+
+            Console.ReadKey();
         }
     }
 }
